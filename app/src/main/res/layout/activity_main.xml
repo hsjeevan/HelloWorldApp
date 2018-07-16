@@ -18,11 +18,11 @@
         android:text="@string/send_message"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toEndOf="@+id/editText3"
+        app:layout_constraintStart_toEndOf="@+id/user_message"
         tools:layout_editor_absoluteY="12dp" />
 
     <EditText
-        android:id="@+id/editText3"
+        android:id="@+id/user_message"
         android:layout_width="0dp"
         android:layout_height="42dp"
         android:layout_marginLeft="16dp"

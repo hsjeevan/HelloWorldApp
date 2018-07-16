@@ -3,4 +3,6 @@
     <string name="enter_meassage">Enter a Message</string>
     <string name="send_message">Send Message</string>
     <string name="welcome_message">Welcome to message activity.</string>
+    <string name="final_activity_message">Welcome to final activity</string>
+    <string name="final_activity_button">Open Final Ativity</string>
 </resources>
